@@ -6,7 +6,7 @@ Exercício de Conversação Simulada nesta aplicação P2P
 
 > Este trabalho é uma atividade acadêmica realizada por este aluno para estudos da plataforma Freechains, que foi desenvolvida pelo Professor Francisco Santana, professor do Departamento de Ciência da Computação da UERJ. A aplicação está no repositório https://github.com/Freechains/README, e pode ser baixada para utilização, bem como materiais de ensino, para serem explorados em seus conceitos e formas de trabalho de maneira plena.
 
-# Problema e Intenção da Aplicação 
+# Problema e Intenção da Simulação 
 
   O problema a ser estudado com a simulação foi o de criar uma conversação de modo que o host pioneiro atuasse com menos frequência do que o Host 2, pois este centralizaria as respostas nele, advindas de outros hosts. O pioneiro atuaria de maneira a premiar posts através de seu poder de likes, privilegiando o Host 2, como uma promoção para conseguir apoiar o fluxo de tráfego neste host. Transpassando para o mundo real, basicamente, o pioneiro atua como um professor, o Host 2, atua como um moderador, e os demais hosts aprendizes nesses fluxos;
 
