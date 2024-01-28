@@ -29,3 +29,7 @@ Exercício de Conversação Simulada nesta aplicação P2P
 3) Para executar a simulação, aplicar ./simul.sh no terminal;
 4) Para refazer a simulação ou remover todos os objetos da memória, aplicar ./apaga.sh;
 
+# Comentários sobre o código
+
+O código simul.sh foi criado para usar variáveis em todo o seu fluxo com estruturas simples de loop para poupar tarefas repetitivas além de contar com uma estrutura extra auxiliar de arquivos no apoio as conversações, manipulação das chaves, hash de publicações, além de comentários e saídas em tela para mapeamento de cada trecho da simulação.
+
