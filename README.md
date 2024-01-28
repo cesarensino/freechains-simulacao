@@ -1,5 +1,5 @@
 # freechains-simulacao
-Exercício de Conversação nesta aplicação P2P
+Exercício de Conversação Simulada nesta aplicação P2P
 
 
 # Introdução
