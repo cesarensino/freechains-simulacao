@@ -12,11 +12,11 @@ Exercício de Conversação Simulada nesta aplicação P2P
 
 # Natureza das Mensagens por Autor
 
-  O host 1 é o pioneiro e atua levantando questões, o host 2 é o moderador e atua tirando duvidas e propondo atividades, os demais hosts atuam no fórum de modo a responder as atividades e levantar dúvidas. A exceção é o Host 6 que entra como newbie tardiamente e troll e praticamente não consegue participar dos fluxos;
+  O host 1 é o pioneiro e atua levantando questões, o host 2 é o moderador/monitor e atua tirando duvidas e propondo atividades, os demais hosts atuam no fórum de modo a responder as atividades e levantar dúvidas. A exceção é o Host 6 que entra como newbie tardiamente e troll e praticamente não consegue participar dos fluxos;
 
 # Comportamento de Autores com Likes e Dislikes
 
-  No caso de likes e dislikes, o Host 2 participa mais ativamente do fórum, podendo distribuir likes concedidos, o Host 6 interrompe seu fluxo por um dislike. O Host 1 premia com likes e os demais hosts, recebem likes como forma de recompensa pela participação ativa;
+  No caso de likes e dislikes, o Host 2 participa mais ativamente do fórum, podendo distribuir likes concedidos, o Host 6 interrompe seu fluxo por um dislike. O Host 1 premia com likes, e os demais hosts recebem likes como forma de recompensa pela participação ativa;
 
 # Conclusão
 
