@@ -16,7 +16,7 @@ Exercício de Conversação Simulada nesta aplicação P2P
 
 # Comportamento de Autores com Likes e Dislikes
 
-  No caso de likes e dislikes, o Host 2 participa mais ativamente do fórum, podendo distribuir likes concedidos, o Host 6 pioneiro, tem seu fluxo interrompido por um dislike. O Host 1 premia com likes e os demais hosts, recebem likes como forma de recompensa pela participação ativa;
+  No caso de likes e dislikes, o Host 2 participa mais ativamente do fórum, podendo distribuir likes concedidos, o Host 6 interrompe seu fluxo por um dislike. O Host 1 premia com likes e os demais hosts, recebem likes como forma de recompensa pela participação ativa;
 
 # Conclusão
 
